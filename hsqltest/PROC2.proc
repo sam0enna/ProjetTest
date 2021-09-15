@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proc:process xmlns:proc="http://www.example.org/proc" id="5b8552f9-bbc5-44a3-9573-4aadc6984486">
+  <actionProcessRef id="627f5c7c-4cf3-4e3a-8661-dbf2ab3b3139" isBeginAction="false" name="default2" nbCycles="-1" toleratedError="false" processMap="true" targetName="resource.map#_J1fqYBZfEeyd4Mm7oCCMjw?fileId=_J1fqYBZfEeyd4Mm7oCCMjw$name=default2$type=map?"/>
+  <diagram><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:proc="http://www.example.org/proc" xsi:schemaLocation="http://www.eclipse.org/gmf/runtime/1.0.1/notation http://www.eclipse.org/gmf/runtime/1.0.2/notation#/?fileId=5b8552f9-bbc5-44a3-9573-4aadc6984486?" xmi:id="_cibDkBZfEeyd4Mm7oCCMjw" type="Proc" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_cvi5kBZfEeyd4Mm7oCCMjw" type="2003">
+    <children xmi:type="notation:Node" xmi:id="_cvkuwBZfEeyd4Mm7oCCMjw" type="5003"/>
+    <children xmi:type="notation:Node" xmi:id="_cvkuwRZfEeyd4Mm7oCCMjw" type="7003">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_cvkuwhZfEeyd4Mm7oCCMjw" collapsed="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cvkuwxZfEeyd4Mm7oCCMjw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cvkuxBZfEeyd4Mm7oCCMjw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_cvkuxRZfEeyd4Mm7oCCMjw" type="7004">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_cvkuxhZfEeyd4Mm7oCCMjw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cvkuxxZfEeyd4Mm7oCCMjw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cvkuyBZfEeyd4Mm7oCCMjw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_cvi5kRZfEeyd4Mm7oCCMjw" fontName="Segoe UI"/>
+    <element xmi:type="proc:ActionProcessRef" href="resource.proc#627f5c7c-4cf3-4e3a-8661-dbf2ab3b3139?fileId=5b8552f9-bbc5-44a3-9573-4aadc6984486$type=proc$name=default2?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cvi5khZfEeyd4Mm7oCCMjw" x="372" y="104"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_cibDkRZfEeyd4Mm7oCCMjw"/>
+  <element xmi:type="proc:ActionProcess" href="resource.proc#5b8552f9-bbc5-44a3-9573-4aadc6984486?fileId=5b8552f9-bbc5-44a3-9573-4aadc6984486$type=proc$name=PROC2?"/>
+</notation:Diagram>
+]]></diagram>
+</proc:process>
